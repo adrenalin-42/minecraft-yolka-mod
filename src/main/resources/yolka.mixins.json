@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "net.adrenalin.yolka.mixins",
+  "compatibilityLevel": "JAVA_${java}",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": []
+}
